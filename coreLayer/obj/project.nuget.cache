@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5POldv0WvxCGG3nOHsQEW21RsaRIHKcERfaO6Zm31uCmqPYbpO1WVpz/z40gF1mCLqa0irLIzrdSbHS58JQBWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Şehmus\\Desktop\\Dosyalar\\.Net (WEB)\\CoreDemo\\coreLayer\\coreLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Şehmus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Şehmus\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Şehmus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
